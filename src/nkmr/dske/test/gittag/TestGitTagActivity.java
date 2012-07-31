@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class TestGitTagActivity extends Activity {
 
-	/*EGit その1*/
+	/*EGit その3 for merge*/
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
