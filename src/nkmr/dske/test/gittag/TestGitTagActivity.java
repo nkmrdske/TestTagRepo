@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class TestGitTagActivity extends Activity {
 
 	/*EGit その3 for merge*/
-	/*edit with vim No.2*/
+	/*edit with vim No.4*/
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
