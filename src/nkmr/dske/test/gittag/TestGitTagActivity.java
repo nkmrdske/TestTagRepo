@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class TestGitTagActivity extends Activity {
 
-	/* 2nd*/
+	/*EGit その1*/
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
