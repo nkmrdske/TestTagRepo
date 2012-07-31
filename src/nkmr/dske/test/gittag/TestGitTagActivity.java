@@ -1,12 +1,12 @@
-package nkmr.dske.test.gittag;
+﻿package nkmr.dske.test.gittag;
 
 import android.app.Activity;
 import android.os.Bundle;
 
 public class TestGitTagActivity extends Activity {
 
-	/*EGit その1*/
-	/*edit with vim No.2 */
+	/*EGit その3 for merge*/
+	/*edit with vim No.2*/
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
