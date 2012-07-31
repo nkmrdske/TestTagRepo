@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class TestGitTagActivity extends Activity {
 
-	/*EGit その3 for merge*/
+	/*EGit その4 for merge*/
 	/*edit with vim No.2*/
 
     @Override
